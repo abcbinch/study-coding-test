@@ -1,0 +1,18 @@
+readline은 
+javascript의 prompt랑 조금 비슷하다.
+JAVA의 Scanner가 비슷하다.
+
+사용자가 직접 값을 입력해서 유동적인 결과를 낼 수 있다.
+
+line은 이벤트의 이름.
+이게 있으면 터미널에 직접 값을 입력할 수 있게 된다.
+콜백함수의 내용을 실행한다.
+
+close는 line을 중지시킬 때 생기는 이벤트.
+끝낼 때 콜백함수가 실행된다.
+rl.close로 끝낼 경우, 엔터를 치면 바로 끝난다.
+하지만 rl.close를 쓰지 않으면 ctrl c를 눌러 끝낼 때까지 계속 된다.
+내가 원할 때 끝내고 싶다면 rl.close를 안 쓰는 것도 방법.
+
+process.stdout.write(str)
+이런 게 있다.
