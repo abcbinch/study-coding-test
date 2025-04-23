@@ -1,0 +1,15 @@
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\bin\Debug\net10.0\more_csfiles.exe
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\bin\Debug\net10.0\more_csfiles.deps.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\bin\Debug\net10.0\more_csfiles.runtimeconfig.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\bin\Debug\net10.0\more_csfiles.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\bin\Debug\net10.0\more_csfiles.pdb
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.AssemblyInfoInputs.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.AssemblyInfo.cs
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.csproj.CoreCompileInputs.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.sourcelink.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\refint\more_csfiles.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.pdb
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\more_csfiles.genruntimeconfig.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\more_csfiles\obj\Debug\net10.0\ref\more_csfiles.dll

@@ -1,0 +1,15 @@
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\bin\Debug\net10.0\split_string.exe
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\bin\Debug\net10.0\split_string.deps.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\bin\Debug\net10.0\split_string.runtimeconfig.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\bin\Debug\net10.0\split_string.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\bin\Debug\net10.0\split_string.pdb
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.AssemblyInfoInputs.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.AssemblyInfo.cs
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.csproj.CoreCompileInputs.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.sourcelink.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\refint\split_string.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.pdb
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\split_string.genruntimeconfig.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\split_string\obj\Debug\net10.0\ref\split_string.dll

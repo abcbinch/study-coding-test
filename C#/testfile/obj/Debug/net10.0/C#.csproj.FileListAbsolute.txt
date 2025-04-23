@@ -1,0 +1,15 @@
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.AssemblyInfo.cs
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.sourcelink.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\bin\Debug\net10.0\C#.exe
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\bin\Debug\net10.0\C#.deps.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\bin\Debug\net10.0\C#.runtimeconfig.json
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\bin\Debug\net10.0\C#.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\bin\Debug\net10.0\C#.pdb
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\refint\C#.dll
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.pdb
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\C#.genruntimeconfig.cache
+C:\Users\jnk\Desktop\폴더들\personal_programming_study\코딩테스트\study-coding-test\C#\obj\Debug\net10.0\ref\C#.dll
